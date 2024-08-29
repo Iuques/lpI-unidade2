@@ -1,4 +1,4 @@
-# Projeto da Unidade 2 de LPI - Lista Encadeada
+# Projeto da Unidade 2 de LPI - Lista Encadeada TAD
 
 Este projeto implementa uma lista encadeada genérica usando tipos abstratos de dados (TAD), feito para a disciplina de Linguagens de Programação I (LPI). O usuário pode interagir com a lista encadeada por meio de um menu que oferece as seguintes operações: adicionar, remover, mostrar e ordenar elementos.
 
